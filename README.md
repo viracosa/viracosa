@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viracosa
+- 👋 Hi, I’m Quan Vu.
 - 👀 I’m interested in ... books
 - 🌱 I’m currently learning ... computer science
 - 💞️ I’m looking to collaborate on ... nature
